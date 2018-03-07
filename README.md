@@ -1,7 +1,7 @@
 # File Differences Project
 File Differences is the final project of [Python Data Representations](https://www.coursera.org/learn/python-representation) course by Rice University in coursera. The course is part of [Introduction to Scripting in Python](https://www.coursera.org/specializations/introduction-scripting-in-python) specialization.
 The project focused on writing code that finds the location of the first character that differs between two input files.
-The program includes 5 fumnction with the following functionality:
+The program includes 5 function with the following functionality:
 
 * singleline_diff(line1, line2) - The function takes two single line strings and returns the index of the first character that differs between the two lines, or an indication in case that the lines are identical.
 * singleline_diff_format(line1, line2, idx) - The function creates a format for presenting the location of the first difference.
